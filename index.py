@@ -4,7 +4,7 @@ b = input("Enter 2nd Number: ")
 c = input("Enter Operation: ")
 
 if(c == "+"):
-    print(a+b)
+    print(a+b) 
 else:
     if(c == "-"):
         print(a-b)
